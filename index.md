@@ -9,10 +9,10 @@
 # O que é o Deepwoken?
 ![alt text](image-2.png)
 
- * ## *_Deepwoken é um jogo no estilo “souls-like” tendo um tipo extremamente dificil de gameplay, com DIVERSAS mecanicas e coisas para se fazer, o que acaba fazendo Deepwoken perder uma quantidade de player, outro motivo também é: “Sistema de perma-death/Morte permanente”, esse sistema funciona da seguinte maneira: ao morrer 2 vezes na superficie, e uma vez nas profundezas (The Depths) você “obrigatoriamente” terá que perder seu personagem, isso não signfica que você não poderá mais jogar, mas sim que você voltará do zero, apenas para uma nova experiencia._*
- # Criação de Personagem.
+## *_Deepwoken é um jogo no estilo “souls-like” tendo um tipo extremamente dificil de gameplay, com DIVERSAS mecanicas e coisas para se fazer, o que acaba fazendo Deepwoken perder uma quantidade de player, outro motivo também é: “Sistema de perma-death/Morte permanente”, esse sistema funciona da seguinte maneira: ao morrer 2 vezes na superficie, e uma vez nas profundezas (The Depths) você “obrigatoriamente” terá que perder seu personagem, isso não signfica que você não poderá mais jogar, mas sim que você voltará do zero, apenas para uma nova experiencia._*
+# Criação de Personagem.
 ## (esse tópico vai de raças até origens.)
-# --> Raças: 
+## --> Raças: 
 ![image](https://github.com/user-attachments/assets/0f2c8373-dc55-48e4-a0bc-e410136cfaa7)
 
 
