@@ -9,14 +9,14 @@
 # O que é o Deepwoken?
 ![alt text](image-2.png)
 
-## *_Deepwoken é um jogo no estilo “souls-like” tendo um tipo extremamente dificil de gameplay, com DIVERSAS mecanicas e coisas para se fazer, o que acaba fazendo Deepwoken perder uma quantidade de player, outro motivo também é: “Sistema de perma-death/Morte permanente”, esse sistema funciona da seguinte maneira: ao morrer 2 vezes na superficie, e uma vez nas profundezas (The Depths) você “obrigatoriamente” terá que perder seu personagem, isso não signfica que você não poderá mais jogar, mas sim que você voltará do zero, apenas para uma nova experiencia._*
+## *Deepwoken é um jogo no estilo “souls-like” tendo um tipo extremamente dificil de gameplay, com DIVERSAS mecanicas e coisas para se fazer, o que acaba fazendo Deepwoken perder uma quantidade de player, outro motivo também é: “Sistema de perma-death/Morte permanente”, esse sistema funciona da seguinte maneira: ao morrer 2 vezes na superficie, e uma vez nas profundezas (The Depths) você “obrigatoriamente” terá que perder seu personagem, isso não signfica que você não poderá mais jogar, mas sim que você voltará do zero, apenas para uma nova experiencia.*
 # Criação de Personagem.
 ## (esse tópico vai de raças até origens.)
 ## --> Raças: 
-![image](https://github.com/user-attachments/assets/0f2c8373-dc55-48e4-a0bc-e410136cfaa7)
+![image](https://github.com/user-attachments/assets/0f8b25b1-8f8a-4d54-ac2f-40affb6d7c2d)
 
 
-## _*No Deepwoken, existem 12 raças diferentes, com estilos e aparências diferentes, aumentando o estlo do seu personagem.*_
+## _No Deepwoken, existem 12 raças diferentes, com estilos e aparências diferentes, aumentando o estlo do seu personagem._
 # (Exemplos de raças)
 ## Canor
 ![alt text](image-3.png)
@@ -143,6 +143,8 @@
 ### Sendo a origem mais recente, você irá nascer na Union Ignition, uma das facções do jogo, localizada em Eastern Luminant.
 
 # FIM.
+
+<img src="https://static.wikia.nocookie.net/project-deepwoken/images/7/73/Sturdy.gif" alt="GIF do item Sturdy">
 
 
 ### -Esse guia tem como obejtivo, ensinar, principalmente aos iniciantes do jogo, a terem uma experiência mais agradável, conhecendo um pouco sobre o jogo e suas mecânicas, todas as imagem deste site foram retiradas da wiki oficial e algumas dos criadores do site e da internet. No mais é isso. Valeu!
