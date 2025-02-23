@@ -1,4 +1,5 @@
 
+
 # *_GUIA PARA INICIANTES. 1/3⚔📜_*
 ## *_Esse guia em especifico é focado em explicar a criação de personagem._*
 ![alt text](image.png)
@@ -145,6 +146,53 @@
 ### -Esse guia tem como obejtivo, ensinar, principalmente aos iniciantes do jogo, a terem uma experiência mais agradável, conhecendo um pouco sobre o jogo e suas mecânicas, todas as imagem deste site foram retiradas da wiki oficial e algumas dos criadores do site e da internet. No mais é isso. Valeu!
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+[def]: image-1.png
 
 
 
