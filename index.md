@@ -1,8 +1,8 @@
 
-
+![alt text](image.png)
 # *_GUIA PARA INICIANTES. 1/3⚔📜_*
 ## *_Esse guia em especifico é focado em explicar a criação de personagem._*
-![alt text](image.png)
+![alt text](image-1.png)
 ## Pra que esse guia serve?⚜
  ## *_-Esse guia consiste em ensinar minimamente sobre o jogo, para que os iniciantes possam se adaptar melhor ao estilo de gameplay de Deepwoken, pois Deepwoken gosta de dificultar qualquer coisas, até as minimas ações, punindo o jogador de alguma maneira._*
  # O que é o Deepwoken?
