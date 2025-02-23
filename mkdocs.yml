@@ -3,6 +3,7 @@ nav:
   - Home: index.md
   - Guia: docs/guia.md
 theme: mkdocs
+site_url: https://Manoelsoarescamilo.github.io/deepwoken/
 
 
 
