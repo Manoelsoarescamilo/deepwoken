@@ -3,10 +3,10 @@
 # *GUIA PARA INICIANTES. 1/3⚔📜*
 ## *Esse guia em especifico é focado em explicar a criação de personagem.*
 ![alt text](image-1.png)
-## Pra que esse guia serve?⚜
- -Esse guia consiste em ensinar minimamente sobre o jogo, para que os iniciantes possam se adaptar melhor ao estilo de gameplay de Deepwoken, pois Deepwoken gosta de dificultar qualquer coisas, até as minimas ações, punindo o jogador de alguma maneira.
+# Pra que esse guia serve?⚜
+## -Esse guia consiste em ensinar minimamente sobre o jogo, para que os iniciantes possam se adaptar melhor ao estilo de gameplay de Deepwoken, pois Deepwoken gosta de dificultar qualquer coisas, até as minimas ações, punindo o jogador de alguma maneira.
  
-## O que é o Deepwoken?
+# O que é o Deepwoken?
 ![alt text](image-2.png)
 
  * ## *_Deepwoken é um jogo no estilo “souls-like” tendo um tipo extremamente dificil de gameplay, com DIVERSAS mecanicas e coisas para se fazer, o que acaba fazendo Deepwoken perder uma quantidade de player, outro motivo também é: “Sistema de perma-death/Morte permanente”, esse sistema funciona da seguinte maneira: ao morrer 2 vezes na superficie, e uma vez nas profundezas (The Depths) você “obrigatoriamente” terá que perder seu personagem, isso não signfica que você não poderá mais jogar, mas sim que você voltará do zero, apenas para uma nova experiencia._*
