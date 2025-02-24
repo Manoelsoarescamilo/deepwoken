@@ -1,3 +1,18 @@
+site_name: Deepwokenguia
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Mudar para modo escuro
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/lightbulb
+        name: Mudar para modo claro
 
   palette:
     - scheme: default
