@@ -1,18 +1,3 @@
-site_name: Meu Site
-
-theme:
-  name: material
-  palette:
-    - scheme: default
-      primary: blue
-      toggle:
-        icon: material/lightbulb-outline
-        name: Mudar para modo escuro
-    - scheme: slate
-      primary: blue
-      toggle:
-        icon: material/lightbulb
-        name: Mudar para modo claro
 
 ![alt text](image.png)
 # *GUIA PARA INICIANTES. 1/3⚔📜*
@@ -173,7 +158,7 @@ theme:
 
 ### -Esse guia tem como obejtivo, ensinar, principalmente aos iniciantes do jogo, a terem uma experiência mais agradável, conhecendo um pouco sobre o jogo e suas mecânicas, todas as imagens deste site foram retiradas da wiki oficial do game e algumas dos criadores do site, e o resto da internet. No mais é isso. Valeu!
 
-![dança](https://static.wikia.nocookie.net/project-deepwoken/images/6/6f/Meditate.gif/revision/latest/scale-to-width-down/340?cb=20230529194720)
+![daça](https://static.wikia.nocookie.net/project-deepwoken/images/6/6f/Meditate.gif/revision/latest/scale-to-width-down/340?cb=20230529194720)
 
 
 
@@ -220,7 +205,6 @@ theme:
 
 
 
-[def]: image-1.png
 
 
 
