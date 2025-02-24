@@ -1,7 +1,6 @@
-theme:
-  name: material
-  palette:
-    scheme: slate
+minima:
+  skin: dark
+
 
 
 
