@@ -1,3 +1,18 @@
+site_name: Meu Site
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Mudar para modo escuro
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/lightbulb
+        name: Mudar para modo claro
 
 ![alt text](image.png)
 # *GUIA PARA INICIANTES. 1/3⚔📜*
